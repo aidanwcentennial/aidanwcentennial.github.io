@@ -1,1 +1,9 @@
 
+---
+layout: post
+title:  "Day 1"
+date:   2017-03-30 08:53:29 -0500
+categories: History
+---
+Welcome to Canada. I've got my farmland, just as promised, however, there are fights in the government about what rights my people should have.
+I'm worried that something bad might happen. Riots have already started in other places. If they start here than my land may be destroyed.
